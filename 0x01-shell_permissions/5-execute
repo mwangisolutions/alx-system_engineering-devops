@@ -1,2 +1,2 @@
 #!/bin/bash
-touch help
+chmod u+x hello
